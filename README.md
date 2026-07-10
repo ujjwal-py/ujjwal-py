@@ -1,13 +1,12 @@
 Hi 👋 I am Ujjwal Kumar
 =============================
 
-- 🎓 CSE Sophomore
+- 🎓 CSE final year
 - 💻 Making fun and useful projects
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [ujjwal372828@gmail.com](mailto:ujjwal372828@gmail.com)
-* 🚀  I'm currently working on [Solostudy](http://https://solostudy.netlify.app/)
-* 🧠  I'm learning DSA (C++), Web Dev (Full Stack)
+* 🧠  I'm a MERN stack developer 
 
 ### Skills
 
