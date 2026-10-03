@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Lonestudy](https://github.com/ujjwal-py/LoneStudyV2)
+- 🔭 I’m currently working on [Offscript](https://github.com/ujjwal-py/offscript)
 
 - 🌱 I’m currently learning **MERN stack, Next.js**
 
